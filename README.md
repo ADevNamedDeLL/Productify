@@ -1,5 +1,7 @@
 # Productify - HTML, CSS & JS Project Compressor
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 **Productify** is a Python script that compresses HTML, CSS, and JavaScript files in a project folder by removing unnecessary whitespace and formatting. It helps you reduce file sizes for faster web page loading, improved performance, and bandwidth savings.
 
 ---
